@@ -1,15 +1,15 @@
 ### Hi, I'm Uday
 
-Full-stack builder. I ship products end-to-end — backends, frontends, mobile, infra. Comfortable in TypeScript and Python; pick whichever the problem wants.
+Full-stack builder. I ship products end-to-end — backends, frontends, mobile, infra. Comfortable in TypeScript, Python, and Java; pick whichever the problem wants.
 
 ---
 
 #### What I'm building
 
-- **[@uipkge](https://github.com/uipkge)** — shadcn-vue–compatible component registry. 60+ primitives and blocks installable with one CLI command. Reference app: [uipkge-hrms](https://github.com/uday-a/uipkge-hrms).
+- **[@uipkge](https://uipkge.dev)** — shadcn-vue–compatible component registry. 80+ primitives and blocks installable with one CLI command. Reference app: [uipkge-hrms-nuxt-template](https://uipkge-hrms-nuxt-template.uipkge.dev).
 - **[i18now](https://i18now.com)** — developer-first TMS for Vue/Nuxt and Next.js. AI translations, in-context editing, CDN-backed locale delivery, and CI/CD integration.
 - **[nuxt-boilerplate](https://github.com/uday-a/nuxt-boilerplate)** — production-grade Nuxt 4 SaaS starter. 44-provider auth + magic-link, Polar billing, Drizzle ORM, typed API envelope, Sentry/PostHog/Axiom hooks. Every integration env-gated.
-- **RAG agent stack** — retrieval-augmented system with n8n for workflow orchestration and CrewAI for multi-agent task delegation. Pluggable retrievers, tool-use, and human-in-the-loop checkpoints.
+- **RAG agent stack** — retrieval-augmented system on Mastra, n8n, and CrewAI. Pluggable retrievers, tool-use, and human-in-the-loop checkpoints.
 
 Plus a stack of in-progress products across project management, condo/property management, and AI-powered internal tooling.
 
@@ -20,11 +20,13 @@ Plus a stack of in-progress products across project management, condo/property m
 **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Backend**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
 ![Nitro](https://img.shields.io/badge/Nitro-00DC82?style=flat&logo=nuxt.js&logoColor=white)
@@ -54,6 +56,7 @@ Plus a stack of in-progress products across project management, condo/property m
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **AI / LLM**
+![Mastra](https://img.shields.io/badge/Mastra-000000?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/AI_SDK-000000?style=flat&logo=vercel&logoColor=white)
